@@ -1,0 +1,13 @@
+{
+  "name": "NewWebAutomation",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Jelad-Salik/NewWebAutomation.git",
+  "author": "Jsalik <jsalik@stashinvest.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@playwright/test": "^1.43.1",
+    "@types/node": "^20.12.7"
+  },
+  "scripts": {}
+}
